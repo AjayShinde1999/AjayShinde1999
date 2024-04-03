@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and Dedicated Java Developer<br>Knowledge of Core Java, Spring Boot, Hibernate, REST API, Docker, AWS services<br>
+Passionate and Dedicated Java Developer.<br>Knowledge of Core Java, Spring Boot, Hibernate, REST API, Docker, AWS services.<br>
 
 
 ## 🌐 Socials:
